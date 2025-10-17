@@ -12,6 +12,8 @@ body {
 
 #main {
     display: flex;
+    align-items: center;
+    justify-content: center;
     gap: 20px;
     padding: 10px 10px;
     width: 100%;
@@ -53,7 +55,7 @@ body {
 .box h2 {
     margin-top: 20px;
     margin-left: 10px;
-    color: rgb(214, 221, 223);
+    color: rgb(161, 229, 248);
     font-size: 40px;
     font-weight: 200;
 }
